@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+👋 Hi, I’m @aimranehousni
+👀 I’m interested in web development, problem-solving, and building innovative applications
+🌱 I’m currently learning React.js and deepening my knowledge of full-stack development
+💞️ I’m looking to collaborate on open-source projects, web applications, or anything that challenges me to grow as a developer
+📫 How to reach me : hooaimrane@gmail.com
+⚡ Fun fact:I love debugging—it feels like solving a mystery! (i just kidding)
 
 
 ## 🌐 Socials:
